@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 234a9699897ea0743b6d74fae16bce4a
+timeCreated: 1519924983
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_pauseMenuUI: {fileID: 1661335631202040, guid: f16c277e98e395a408954acfaf570b80,
+      type: 2}
+  - m_musicMenuUI: {fileID: 1044322067307742, guid: 0186bfd503bfa244ebc35084847d76f1,
+      type: 2}
+  - m_audioSource: {fileID: 82286199948911168, guid: cdb7cb124c132aa4ba4351fd8edfd4f5,
+      type: 2}
+  - m_track1: {fileID: 8300000, guid: fe7af0b35fc000244bdcaad1b7adae0f, type: 3}
+  - m_track2: {fileID: 8300000, guid: 0c35b01d4bd43894d8660485bc6fdb41, type: 3}
+  - m_track3: {fileID: 8300000, guid: 03300f2bc69e6bb439dc0682fbb71fe1, type: 3}
+  - m_track4: {fileID: 8300000, guid: 860a45a5fc0b21d45858e56d37d015b1, type: 3}
+  - m_crossHair: {fileID: 114037037067581330, guid: cdb7cb124c132aa4ba4351fd8edfd4f5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
